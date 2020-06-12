@@ -1,3 +1,9 @@
+# This Repository is no longer maintained
+
+This repository is now part of **https://github.com/matteobruni/tsparticles**
+
+---
+
 # tsParticles - Vue Component ![Node.js CI](https://github.com/matteobruni/particles.vue/workflows/Node.js%20CI/badge.svg)
 
 Vue.js component for [tsParticles](https://github.com/matteobruni/tsparticles)
